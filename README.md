@@ -3,7 +3,6 @@
 🚀 Currently Exploring:
 
 Building my personal blog to share insights and document what I am currently learning.
-Testing Alchemy CMS for potential client projects.
 
 🛠 Tech Stack:
 
